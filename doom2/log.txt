@@ -1,0 +1,3 @@
+MALI_CreateWindow:0x557f7a6620 done.
+MALI_CreateWindow:0x557fa4c0e0 done.
+/mnt/mmc/MUOS/PortMaster/funcs.txt: line 140:   940 Killed                  $GPTOKEYB "love"
